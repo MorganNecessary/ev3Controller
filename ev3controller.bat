@@ -1,0 +1,1 @@
+"C:\Program Files\MATLAB\R2016a\bin\matlab.exe" -nodisplay -nosplash -nodesktop -r "cd('C:\Users\Robert\Documents\MATLAB\ev3Controller'); run('C:\Users\Robert\Documents\MATLAB\ev3Controller\ev3Controller4.m');"
